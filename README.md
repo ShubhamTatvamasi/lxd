@@ -95,4 +95,8 @@ Delete snapshot:
 lxc delete debian/mysnap1
 ```
 
+Restore snapshot:
+```bash
+lxc restore debian mysnap2
+```
 
