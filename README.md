@@ -23,3 +23,8 @@ List remote images:
 lxc image list images:
 lxc image list ubuntu:
 ```
+
+Search for specfic images:
+```bash
+lxc image list images: alpine
+```
