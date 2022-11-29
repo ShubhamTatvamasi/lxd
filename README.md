@@ -53,4 +53,8 @@ Lanuch a debian container:
 lxc launch images:debian/10 debian
 ```
 
+Get shell access of debian container:
+```bash
+lxc exec debian -- bash
+```
 
