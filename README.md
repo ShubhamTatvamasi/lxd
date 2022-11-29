@@ -18,6 +18,11 @@ List running containers:
 lxc list
 ```
 
+Lanuch a new container:
+```bash
+lxc launch images:ubuntu/jammy ubuntu
+```
+
 List remote image repos:
 ```bash
 lxc remote list
