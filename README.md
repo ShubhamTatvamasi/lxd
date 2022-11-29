@@ -23,6 +23,11 @@ Lanuch a new container:
 lxc launch images:ubuntu/jammy ubuntu
 ```
 
+Get shell access of container:
+```bash
+lxc exec ubuntu -- bash
+```
+
 List remote image repos:
 ```bash
 lxc remote list
