@@ -85,4 +85,7 @@ Take snapshot of a container:
 lxc snapshot debian mysnap1
 ```
 
-
+Get container info:
+```bash
+lxc info debian
+```
