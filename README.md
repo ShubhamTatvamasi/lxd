@@ -13,7 +13,13 @@ storage backend = dir
 
 ### LXC
 
-List remote images:
+List remote image repos:
 ```bash
 lxc remote list
+```
+
+List remote images:
+```bash
+lxc image list images:
+lxc image list ubuntu:
 ```
