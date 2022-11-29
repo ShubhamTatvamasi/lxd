@@ -58,3 +58,14 @@ Get shell access of debian container:
 lxc exec debian -- bash
 ```
 
+Stop debian container
+```bash
+lxc stop debian
+```
+
+Start debian container
+```bash
+lxc start debian
+```
+
+
