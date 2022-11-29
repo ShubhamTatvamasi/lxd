@@ -115,3 +115,9 @@ Show container configuration:
 lxc config show debian
 ```
 
+Set 30 seconds delay before container start:
+```bash
+lxc config set debian boot.autostart.delay 30
+```
+
+
