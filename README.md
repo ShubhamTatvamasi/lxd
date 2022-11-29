@@ -110,3 +110,8 @@ Set container memory limit:
 lxc config set debian limits.memory 1GB
 ```
 
+Show container configuration:
+```bash
+lxc config show debian
+```
+
