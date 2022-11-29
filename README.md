@@ -78,3 +78,11 @@ Delete the container:
 lxc delete debian --force
 ```
 
+### Snapshot
+
+Take snapshot of a container:
+```bash
+lxc snapshot debian mysnap1
+```
+
+
