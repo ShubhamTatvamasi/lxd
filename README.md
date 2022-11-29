@@ -9,3 +9,5 @@ Initalize:
 ```bash
 sudo lxd init
 ```
+storage backend = dir
+
