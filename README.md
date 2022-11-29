@@ -11,6 +11,8 @@ sudo lxd init
 ```
 storage backend = dir
 
+### LXC
+
 List remote images:
 ```bash
 lxc remote list
