@@ -73,3 +73,8 @@ Restart debian container
 lxc restart debian
 ```
 
+Delete the container:
+```bash
+lxc delete debian --force
+```
+
