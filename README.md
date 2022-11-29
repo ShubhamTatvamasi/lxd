@@ -105,4 +105,8 @@ Auto start container when reboot server:
 lxc config set debian boot.autostart 1
 ```
 
+Set container memory limit:
+```bash
+lxc config set debian limits.memory 1GB
+```
 
