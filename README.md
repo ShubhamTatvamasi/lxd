@@ -43,3 +43,14 @@ Search for specfic images:
 ```bash
 lxc image list images: alpine
 ```
+
+---
+
+# Debian
+
+Lanuch a debian container:
+```bash
+lxc launch images:debian/10 debian
+```
+
+
