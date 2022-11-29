@@ -100,3 +100,9 @@ Restore snapshot:
 lxc restore debian mysnap2
 ```
 
+Auto start container when reboot server:
+```bash
+lxc config set debian boot.autostart 1
+```
+
+
