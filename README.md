@@ -68,4 +68,8 @@ Start debian container
 lxc start debian
 ```
 
+Restart debian container
+```bash
+lxc restart debian
+```
 
