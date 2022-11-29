@@ -89,3 +89,10 @@ Get container info:
 ```bash
 lxc info debian
 ```
+
+Delete snapshot:
+```bash
+lxc delete debian/mysnap1
+```
+
+
