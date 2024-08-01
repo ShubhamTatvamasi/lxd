@@ -20,7 +20,7 @@ lxc list
 
 Lanuch a new container:
 ```bash
-lxc launch images:ubuntu/noble ubuntu
+lxc launch ubuntu:24.04
 ```
 
 Get shell access of container:
