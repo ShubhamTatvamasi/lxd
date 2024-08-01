@@ -20,7 +20,7 @@ lxc list
 
 Lanuch a new container:
 ```bash
-lxc launch images:ubuntu/jammy ubuntu
+lxc launch images:ubuntu/noble ubuntu
 ```
 
 Get shell access of container:
