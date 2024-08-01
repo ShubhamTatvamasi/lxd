@@ -20,7 +20,7 @@ lxc list
 
 Lanuch a new container:
 ```bash
-lxc launch ubuntu:24.04
+lxc launch ubuntu:24.04 ubuntu
 ```
 
 Get shell access of container:
